@@ -1,0 +1,6 @@
+streamlit
+requests
+beautifulsoup4
+cohere
+python-dotenv
+transformers
